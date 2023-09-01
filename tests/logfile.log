@@ -1,0 +1,307 @@
+2023-08-15 12:18:36,814: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:18:37,512: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:18:40,951: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Danielle Schultz, Email: jasonfrench@example.net, Password: $VGws&Cx^8, DOB: 1953-04-29
+2023-08-15 12:18:41,718: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Danielle, Last Name: Schultz, Company: Hawkins-Rojas, Mobile Number: 783-491-5899
+Address Line 1: 862 Hutchinson Manor, Address Line 2: Suite 542, Country: New Zealand, State: New York, City: Thompsonhaven, Zip Code: 88175
+2023-08-15 12:18:42,372: WARNING: test_register_valid_user => Creating new account
+2023-08-15 12:20:36,878: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:20:37,623: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:20:40,697: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Adrian Hamilton, Email: whitney16@example.com, Password: b%72N5xxeC, DOB: 1968-09-30
+2023-08-15 12:20:41,314: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Adrian, Last Name: Hamilton, Company: Davis, Rios and Collins, Mobile Number: (945)900-9384x544
+Address Line 1: 99577 Smith Spring Suite 639, Address Line 2: Suite 310, Country: United States, State: Pennsylvania, City: Petersmouth, Zip Code: 06094
+2023-08-15 12:20:41,865: WARNING: test_register_valid_user => Creating new account
+2023-08-15 12:31:33,944: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:31:34,681: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:31:37,557: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Cory Gates, Email: michellecarroll@example.com, Password: 68(Mqx!w(K, DOB: 1954-12-03
+2023-08-15 12:31:37,986: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Cory, Last Name: Gates, Company: Lopez-Castillo, Mobile Number: 871-631-0070x8986
+Address Line 1: 954 Miranda Circle, Address Line 2: Suite 525, Country: Australia, State: Oregon, City: North Sandy, Zip Code: 14251
+2023-08-15 12:31:38,561: WARNING: test_register_valid_user => Creating new account
+2023-08-15 12:32:15,119: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:32:15,983: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:32:18,617: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Gregory Marquez, Email: margaret60@example.net, Password: %7SfBlIn3v, DOB: 1981-12-29
+2023-08-15 12:32:19,234: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Gregory, Last Name: Marquez, Company: Henderson Inc, Mobile Number: 001-949-678-9225x26025
+Address Line 1: 09522 Kenneth Village, Address Line 2: Apt. 857, Country: Australia, State: Massachusetts, City: Rogerton, Zip Code: 06497
+2023-08-15 12:32:19,789: WARNING: test_register_valid_user => Creating new account
+2023-08-15 12:34:47,114: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:34:47,888: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:34:51,133: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Bradley Ward, Email: sherry57@example.org, Password: it34M!SUf$, DOB: 1995-01-09
+2023-08-15 12:34:51,703: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Bradley, Last Name: Ward, Company: Solomon, Benson and Hernandez, Mobile Number: (652)741-4758x4693
+Address Line 1: 97820 Porter Ways Suite 944, Address Line 2: Suite 950, Country: United States, State: Florida, City: North Christopherfurt, Zip Code: 67687
+2023-08-15 12:34:52,302: WARNING: test_register_valid_user => Creating new account
+2023-08-15 12:35:41,821: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:35:42,538: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:35:45,262: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Keith Shepherd, Email: megan42@example.com, Password: GTd3+NJs%B, DOB: 2004-10-20
+2023-08-15 12:35:45,823: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Keith, Last Name: Shepherd, Company: Stewart-Dickerson, Mobile Number: 634-971-0949x22839
+Address Line 1: 076 Destiny Path, Address Line 2: Apt. 103, Country: United States, State: New Hampshire, City: Lake Erinchester, Zip Code: 09811
+2023-08-15 12:35:46,348: WARNING: test_register_valid_user => Creating new account
+2023-08-15 12:36:56,990: INFO: test_register_valid_user => Going to loging page
+2023-08-15 12:36:57,749: INFO: test_register_valid_user => Starting sing up
+2023-08-15 12:37:00,766: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Kenneth Turner, Email: gdaniels@example.net, Password: 08$AtPdt&H, DOB: 1983-09-27
+2023-08-15 12:37:01,363: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Kenneth, Last Name: Turner, Company: Stein Inc, Mobile Number: (935)947-3076x0073
+Address Line 1: 8442 Flores Spur, Address Line 2: Apt. 894, Country: United States, State: Montana, City: Erinview, Zip Code: 63080
+2023-08-15 12:37:01,913: WARNING: test_register_valid_user => Creating new account
+2023-08-15 13:55:24,071: INFO: test_register_valid_user => Going to loging page
+2023-08-15 13:55:24,950: INFO: test_register_valid_user => Starting sing up
+2023-08-15 13:55:28,277: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Jeremy Silva, Email: heather77@example.org, Password: 6$3RNxTp#B, DOB: 1971-06-09
+2023-08-15 13:55:28,832: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Jeremy, Last Name: Silva, Company: Boyer-Baxter, Mobile Number: (703)354-1503
+Address Line 1: 69029 Gonzalez Ridges Suite 656, Address Line 2: Suite 344, Country: New Zealand, State: Connecticut, City: Griffithshire, Zip Code: 37107
+2023-08-15 13:55:29,470: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:47:47,278: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:47:48,070: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:47:49,134: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Jason Tucker, Email: bortiz@example.org, Password: U6TKEAKe#k, DOB: 1953-03-09
+2023-08-16 11:47:50,638: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Jason, Last Name: Tucker, Company: Williams, Johnson and Flores, Mobile Number: 001-245-338-4630x7915
+Address Line 1: 562 Sutton Underpass, Address Line 2: Apt. 184, Country: New Zealand, State: Oklahoma, City: South Spencer, Zip Code: 95722
+2023-08-16 11:47:51,128: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:47:51,873: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:47:51,873: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:47:53,683: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:47:53,683: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:50:37,772: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:50:38,616: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:50:39,701: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Sabrina Ware, Email: boonebrendan@example.org, Password: Gs_2&sNy#+, DOB: 1988-10-07
+2023-08-16 11:50:40,166: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Sabrina, Last Name: Ware, Company: Henderson, Warren and Brown, Mobile Number: (863)970-6194x89698
+Address Line 1: 511 Matthew Gateway Apt. 690, Address Line 2: Apt. 123, Country: Australia, State: Oregon, City: East Steven, Zip Code: 59487
+2023-08-16 11:50:41,835: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:50:45,646: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:50:45,646: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:50:46,347: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:50:46,347: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:50:47,765: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Julie Johnson, Email: nicholaslarson@example.org, Password: J9T1Uyc87(, DOB: 1986-08-29
+2023-08-16 11:50:47,765: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Julie Johnson, Email: nicholaslarson@example.org, Password: J9T1Uyc87(, DOB: 1986-08-29
+2023-08-16 11:50:48,385: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Julie, Last Name: Johnson, Company: Valencia LLC, Mobile Number: 001-423-392-2490x87955
+Address Line 1: 24807 Rogers Street Suite 363, Address Line 2: Apt. 358, Country: New Zealand, State: North Dakota, City: West Tony, Zip Code: 19016
+2023-08-16 11:50:48,385: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Julie, Last Name: Johnson, Company: Valencia LLC, Mobile Number: 001-423-392-2490x87955
+Address Line 1: 24807 Rogers Street Suite 363, Address Line 2: Apt. 358, Country: New Zealand, State: North Dakota, City: West Tony, Zip Code: 19016
+2023-08-16 11:50:48,918: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:50:48,918: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:57:05,234: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:57:06,004: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:57:08,057: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Victoria Pitts, Email: mendozasarah@example.com, Password: 5w#d4oCrUe, DOB: 1980-12-25
+2023-08-16 11:57:08,797: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Victoria, Last Name: Pitts, Company: Turner, Parsons and Haynes, Mobile Number: 649-998-3119
+Address Line 1: 89520 Avila Crossroad, Address Line 2: Apt. 434, Country: United States, State: Louisiana, City: Clarkville, Zip Code: 07313
+2023-08-16 11:57:09,335: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:57:13,104: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:57:13,104: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:57:13,650: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:57:13,650: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:57:14,705: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Mark West, Email: wattskimberly@example.com, Password: 46kYhdb0+X, DOB: 1952-10-16
+2023-08-16 11:57:14,705: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Mark West, Email: wattskimberly@example.com, Password: 46kYhdb0+X, DOB: 1952-10-16
+2023-08-16 11:57:15,322: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Mark, Last Name: West, Company: Clarke, Alvarado and Robbins, Mobile Number: +1-814-654-3541
+Address Line 1: 9525 Tyler Rapid Apt. 714, Address Line 2: Apt. 605, Country: Australia, State: Mississippi, City: New Veronicaview, Zip Code: 12753
+2023-08-16 11:57:15,322: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Mark, Last Name: West, Company: Clarke, Alvarado and Robbins, Mobile Number: +1-814-654-3541
+Address Line 1: 9525 Tyler Rapid Apt. 714, Address Line 2: Apt. 605, Country: Australia, State: Mississippi, City: New Veronicaview, Zip Code: 12753
+2023-08-16 11:57:15,859: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:57:15,859: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:57:48,443: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:57:49,181: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:57:50,261: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Robert Reed, Email: kylebrown@example.org, Password: p4@bG5nH)O, DOB: 1954-07-06
+2023-08-16 11:57:59,648: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Robert, Last Name: Reed, Company: Greer-Reyes, Mobile Number: 001-206-776-8285x298
+Address Line 1: 8615 Julia Drives Apt. 438, Address Line 2: Apt. 167, Country: Canada, State: Texas, City: Port Jamiestad, Zip Code: 29149
+2023-08-16 11:58:00,235: WARNING: test_register_valid_user => Creating new account
+2023-08-16 11:58:05,283: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:58:05,283: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:58:05,935: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:58:05,935: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:58:06,808: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Julie Gonzalez, Email: jessicaevans@example.net, Password: JMZYU9Vf$x, DOB: 1947-02-02
+2023-08-16 11:58:06,808: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Julie Gonzalez, Email: jessicaevans@example.net, Password: JMZYU9Vf$x, DOB: 1947-02-02
+2023-08-16 11:59:01,024: INFO: test_register_valid_user => Going to loging page
+2023-08-16 11:59:01,763: INFO: test_register_valid_user => Starting sing up
+2023-08-16 11:59:03,887: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Kevin Taylor, Email: bescobar@example.com, Password: wmlu3Fru%4, DOB: 1983-01-30
+2023-08-16 12:00:05,946: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Kevin, Last Name: Taylor, Company: Solis-Gordon, Mobile Number: 262-618-9647
+Address Line 1: 442 Dickson Overpass Suite 475, Address Line 2: Apt. 817, Country: United States, State: Nebraska, City: Osborneshire, Zip Code: 45818
+2023-08-16 12:00:06,514: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:00:10,425: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:00:10,425: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:00:10,935: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:00:10,935: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:00:11,686: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Jimmy Serrano, Email: melissahooper@example.org, Password: CX4AUe%+m$, DOB: 1971-11-13
+2023-08-16 12:00:11,686: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Jimmy Serrano, Email: melissahooper@example.org, Password: CX4AUe%+m$, DOB: 1971-11-13
+2023-08-16 12:01:08,460: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:01:09,179: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:01:10,486: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Kim Newton, Email: asmith@example.org, Password: a2asCPgR#x, DOB: 1994-12-06
+2023-08-16 12:01:14,198: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Kim, Last Name: Newton, Company: Schroeder, Woodward and Bradshaw, Mobile Number: +1-819-563-4226x2836
+Address Line 1: 06996 Kimberly Lights, Address Line 2: Suite 906, Country: United States, State: Massachusetts, City: East Williamchester, Zip Code: 71918
+2023-08-16 12:01:14,759: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:01:18,851: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:01:18,851: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:01:19,375: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:01:19,375: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:01:20,379: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Mark Foster, Email: parkpamela@example.net, Password: @h3FKKjPCW, DOB: 1974-03-18
+2023-08-16 12:01:20,379: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Mark Foster, Email: parkpamela@example.net, Password: @h3FKKjPCW, DOB: 1974-03-18
+2023-08-16 12:02:22,362: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:02:23,113: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:02:24,525: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Steven Montoya, Email: ronnie43@example.org, Password: 5E*CN4Lh)f, DOB: 2004-05-31
+2023-08-16 12:02:38,664: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Steven, Last Name: Montoya, Company: Chung, Terry and Washington, Mobile Number: +1-454-892-8552x89016
+Address Line 1: 32661 Ellis Lake, Address Line 2: Apt. 285, Country: Canada, State: New York, City: Port Terriport, Zip Code: 96240
+2023-08-16 12:02:39,253: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:02:43,145: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:02:43,145: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:02:43,639: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:02:43,639: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:02:44,385: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: James Barron, Email: sjackson@example.net, Password: I^2EMeH6*m, DOB: 2003-09-22
+2023-08-16 12:02:44,385: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: James Barron, Email: sjackson@example.net, Password: I^2EMeH6*m, DOB: 2003-09-22
+2023-08-16 12:02:46,864: INFO: test_register_valid_user => Entering personal and address info:
+First Name: James, Last Name: Barron, Company: Stanton-Rice, Mobile Number: 238-470-1482
+Address Line 1: 0162 Allen Mall Apt. 977, Address Line 2: Apt. 276, Country: Canada, State: New Jersey, City: Lake Olivia, Zip Code: 99630
+2023-08-16 12:02:46,864: INFO: test_register_valid_user => Entering personal and address info:
+First Name: James, Last Name: Barron, Company: Stanton-Rice, Mobile Number: 238-470-1482
+Address Line 1: 0162 Allen Mall Apt. 977, Address Line 2: Apt. 276, Country: Canada, State: New Jersey, City: Lake Olivia, Zip Code: 99630
+2023-08-16 12:02:47,348: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:02:47,348: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:22:32,666: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:22:33,469: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:22:34,450: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Timothy Lewis, Email: shelby02@example.net, Password: Rap5XpVxh&, DOB: 1985-10-12
+2023-08-16 12:22:36,969: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Timothy, Last Name: Lewis, Company: Edwards LLC, Mobile Number: 776.678.5356x91513
+Address Line 1: 635 Glenn Ramp, Address Line 2: Suite 022, Country: New Zealand, State: Tennessee, City: Vaughnbury, Zip Code: 62125
+2023-08-16 12:22:37,696: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:22:43,781: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:22:43,781: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:22:44,331: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:22:44,331: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:22:45,511: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Sergio Strong, Email: lee87@example.org, Password: Q_61yRyFS+, DOB: 1970-07-22
+2023-08-16 12:22:45,511: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Sergio Strong, Email: lee87@example.org, Password: Q_61yRyFS+, DOB: 1970-07-22
+2023-08-16 12:22:46,170: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Sergio, Last Name: Strong, Company: Stephenson, Wells and Rodriguez, Mobile Number: 350-393-4814x37710
+Address Line 1: 7826 Williams Fort, Address Line 2: Apt. 728, Country: Canada, State: Arizona, City: North William, Zip Code: 20036
+2023-08-16 12:22:46,170: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Sergio, Last Name: Strong, Company: Stephenson, Wells and Rodriguez, Mobile Number: 350-393-4814x37710
+Address Line 1: 7826 Williams Fort, Address Line 2: Apt. 728, Country: Canada, State: Arizona, City: North William, Zip Code: 20036
+2023-08-16 12:22:46,822: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:22:46,822: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:24:43,683: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:24:44,402: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:24:45,318: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Jeffrey Morgan, Email: bonillaleah@example.com, Password: 3y8J38*f*), DOB: 1988-09-03
+2023-08-16 12:24:47,454: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Jeffrey, Last Name: Morgan, Company: Stanley-Schneider, Mobile Number: 783-920-4499
+Address Line 1: 2236 Mark Shoal, Address Line 2: Apt. 644, Country: United States, State: South Carolina, City: Port Melindaview, Zip Code: 66901
+2023-08-16 12:24:48,092: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:24:54,458: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:24:54,458: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:24:55,011: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:24:55,011: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:24:56,107: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Micheal Allen, Email: suarezluis@example.com, Password: $K!R7XogGb, DOB: 1998-08-23
+2023-08-16 12:24:56,107: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Micheal Allen, Email: suarezluis@example.com, Password: $K!R7XogGb, DOB: 1998-08-23
+2023-08-16 12:24:56,741: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Micheal, Last Name: Allen, Company: Booth and Sons, Mobile Number: 421-737-6466x2839
+Address Line 1: 356 Taylor Junctions, Address Line 2: Suite 418, Country: Australia, State: Iowa, City: Finleystad, Zip Code: 01825
+2023-08-16 12:24:56,741: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Micheal, Last Name: Allen, Company: Booth and Sons, Mobile Number: 421-737-6466x2839
+Address Line 1: 356 Taylor Junctions, Address Line 2: Suite 418, Country: Australia, State: Iowa, City: Finleystad, Zip Code: 01825
+2023-08-16 12:24:57,262: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:24:57,262: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:50:32,199: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:54:25,176: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:54:25,978: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:54:29,283: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: James Boyd, Email: welchmaria@example.org, Password: _)p8bCg47x, DOB: 1962-12-12
+2023-08-16 12:54:30,014: INFO: test_register_valid_user => Entering personal and address info:
+First Name: James, Last Name: Boyd, Company: Schmidt, Guerrero and Baxter, Mobile Number: 001-818-207-0830x28165
+Address Line 1: 1673 Jacob Ramp Suite 901, Address Line 2: Apt. 161, Country: Canada, State: Maine, City: West Joshua, Zip Code: 02630
+2023-08-16 12:54:30,742: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:54:36,844: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:54:36,844: INFO: test_register_valid_user => Going to loging page
+2023-08-16 12:54:37,333: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:54:37,333: INFO: test_register_valid_user => Starting sing up
+2023-08-16 12:54:39,182: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Larry Rivera, Email: jessicaspencer@example.net, Password: _G8ZLKvD9b, DOB: 1985-03-15
+2023-08-16 12:54:39,182: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Larry Rivera, Email: jessicaspencer@example.net, Password: _G8ZLKvD9b, DOB: 1985-03-15
+2023-08-16 12:54:39,874: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Larry, Last Name: Rivera, Company: Rodriguez-Gonzalez, Mobile Number: 488.719.9419x12111
+Address Line 1: 5793 Smith Fords Apt. 548, Address Line 2: Apt. 748, Country: Australia, State: Hawaii, City: Frankside, Zip Code: 38713
+2023-08-16 12:54:39,874: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Larry, Last Name: Rivera, Company: Rodriguez-Gonzalez, Mobile Number: 488.719.9419x12111
+Address Line 1: 5793 Smith Fords Apt. 548, Address Line 2: Apt. 748, Country: Australia, State: Hawaii, City: Frankside, Zip Code: 38713
+2023-08-16 12:54:40,656: WARNING: test_register_valid_user => Creating new account
+2023-08-16 12:54:40,656: WARNING: test_register_valid_user => Creating new account
+2023-08-16 13:01:33,413: INFO: test_register_valid_user => Going to loging page
+2023-08-16 13:03:38,247: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:02:58,320: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:02:59,014: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:03:01,369: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Jennifer Duncan, Email: mhodges@example.com, Password: %o^PP7Yb7E, DOB: 2003-01-17
+2023-08-16 14:03:02,664: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Jennifer, Last Name: Duncan, Company: Blake, Singh and Vance, Mobile Number: 475.494.1673
+Address Line 1: 191 Tara Extension Suite 270, Address Line 2: Apt. 515, Country: United States, State: Illinois, City: South Michaelton, Zip Code: 09604
+2023-08-16 14:03:03,825: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:03:16,543: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:03:16,543: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:03:59,220: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:03:59,847: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:04:07,935: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Tina Lamb, Email: rowens@example.net, Password: gl)9lQ1ox$, DOB: 1970-07-22
+2023-08-16 14:04:08,676: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Tina, Last Name: Lamb, Company: Robinson Ltd, Mobile Number: 627.532.7550
+Address Line 1: 306 Daniel Parks Apt. 834, Address Line 2: Suite 159, Country: Canada, State: Alaska, City: Davisfort, Zip Code: 43273
+2023-08-16 14:04:09,409: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:04:16,388: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:04:16,388: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:04:16,953: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:04:16,953: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:04:20,016: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Katherine Mcknight, Email: rreeves@example.com, Password: 458Ue4%s#4, DOB: 1960-02-04
+2023-08-16 14:04:20,016: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Katherine Mcknight, Email: rreeves@example.com, Password: 458Ue4%s#4, DOB: 1960-02-04
+2023-08-16 14:04:20,607: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Katherine, Last Name: Mcknight, Company: Miller LLC, Mobile Number: 7184160306
+Address Line 1: 2905 Stacey Fords Apt. 050, Address Line 2: Suite 348, Country: Australia, State: Virginia, City: West David, Zip Code: 29320
+2023-08-16 14:04:20,607: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Katherine, Last Name: Mcknight, Company: Miller LLC, Mobile Number: 7184160306
+Address Line 1: 2905 Stacey Fords Apt. 050, Address Line 2: Suite 348, Country: Australia, State: Virginia, City: West David, Zip Code: 29320
+2023-08-16 14:04:21,252: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:04:21,252: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:05:03,365: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:05:05,838: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:05:17,044: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Samantha Hayes, Email: dvasquez@example.org, Password: &!5DrS@&Vb, DOB: 1989-04-17
+2023-08-16 14:05:17,696: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Samantha, Last Name: Hayes, Company: Wilcox Inc, Mobile Number: 001-479-509-5585
+Address Line 1: 1787 Pruitt Gateway Apt. 315, Address Line 2: Apt. 399, Country: United States, State: Arizona, City: Brandyland, Zip Code: 37479
+2023-08-16 14:05:18,452: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:05:45,775: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:05:45,775: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:05:48,324: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:05:48,324: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:05:52,943: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Thomas Martinez, Email: gforbes@example.net, Password: s)LMa6kX_0, DOB: 1952-06-23
+2023-08-16 14:05:52,943: INFO: test_register_valid_user => Entering account info: Title: Mr., Name: Thomas Martinez, Email: gforbes@example.net, Password: s)LMa6kX_0, DOB: 1952-06-23
+2023-08-16 14:05:53,706: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Thomas, Last Name: Martinez, Company: Aguilar, Waller and Khan, Mobile Number: 513-967-4666x2730
+Address Line 1: 12710 Heather Heights, Address Line 2: Suite 599, Country: New Zealand, State: Massachusetts, City: West Kyle, Zip Code: 53365
+2023-08-16 14:05:53,706: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Thomas, Last Name: Martinez, Company: Aguilar, Waller and Khan, Mobile Number: 513-967-4666x2730
+Address Line 1: 12710 Heather Heights, Address Line 2: Suite 599, Country: New Zealand, State: Massachusetts, City: West Kyle, Zip Code: 53365
+2023-08-16 14:05:54,490: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:05:54,490: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:31:19,707: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:31:20,531: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:31:22,897: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Charles Sparks, Email: rittergail@example.net, Password: Gc0Kkma@%$, DOB: 2000-08-22
+2023-08-16 14:31:25,046: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Charles, Last Name: Sparks, Company: Meadows-Flynn, Mobile Number: 001-969-677-7739x6224
+Address Line 1: 75198 Washington Wells, Address Line 2: Suite 480, Country: New Zealand, State: Hawaii, City: North John, Zip Code: 64950
+2023-08-16 14:31:25,753: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:31:32,296: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:31:32,296: INFO: test_register_valid_user => Going to loging page
+2023-08-16 14:31:33,619: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:31:33,619: INFO: test_register_valid_user => Starting sing up
+2023-08-16 14:31:35,357: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Erik Thomas, Email: kathleen84@example.org, Password: &65Bkwjtw$, DOB: 1944-08-07
+2023-08-16 14:31:35,357: INFO: test_register_valid_user => Entering account info: Title: Mrs., Name: Erik Thomas, Email: kathleen84@example.org, Password: &65Bkwjtw$, DOB: 1944-08-07
+2023-08-16 14:31:35,960: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Erik, Last Name: Thomas, Company: Underwood and Sons, Mobile Number: (994)955-9454x9893
+Address Line 1: 4123 Joshua Glens, Address Line 2: Suite 520, Country: Australia, State: Florida, City: Kirkview, Zip Code: 76661
+2023-08-16 14:31:35,960: INFO: test_register_valid_user => Entering personal and address info:
+First Name: Erik, Last Name: Thomas, Company: Underwood and Sons, Mobile Number: (994)955-9454x9893
+Address Line 1: 4123 Joshua Glens, Address Line 2: Suite 520, Country: Australia, State: Florida, City: Kirkview, Zip Code: 76661
+2023-08-16 14:31:36,789: WARNING: test_register_valid_user => Creating new account
+2023-08-16 14:31:36,789: WARNING: test_register_valid_user => Creating new account
